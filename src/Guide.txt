@@ -1,0 +1,3 @@
+There is a problem with ABPRenamer.exe not being able to access/open files with hidden attribute.
+Solved by removing Hidden Attributes for all files, before using ABPRenamer.exe
+
